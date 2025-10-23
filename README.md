@@ -29,7 +29,7 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgresql" alt="Backend Skills" />
 
 ### Ferramentas & Outros
 
