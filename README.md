@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou **Evelyn Bezerra Ramos**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=6366F1&center=true&vCenter=true&lines=Desenvolvedora+Full-Stack;Transformando+ideias+em+código;Apaixonada+por+tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&color=6366F1&center=true&vCenter=true&lines=Desenvolvedora+Full-Stack;Transformando+ideias+em+c%C3%B3digo;Apaixonada+por+tecnologia" alt="Typing SVG" />
 
 </div>
 
