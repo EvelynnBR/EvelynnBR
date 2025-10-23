@@ -1,65 +1,99 @@
-<h1 align="center">👋 Hey, eu sou a Evelyn!</h1>
-
-<p align="center">
-  <em>Desenvolvedora Full-Stack focada em criar experiências digitais modernas e intuitivas. <br>
-  Apaixonada por tecnologia, design limpo e aprendizado constante.</em>
-</p>
-
----
-
-### 🪄 Tecnologias que mais uso
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,github" />
-</p>
-
----
-
-### ⚡ Estatísticas do GitHub
-
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvelynnBR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynnBR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9" />
+# 👋 Olá, eu sou **Evelyn Bezerra Ramos**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full-Stack;Transformando+ideias+em+código;Apaixonada+por+tecnologia" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 🏆 Trophies e Conquistas
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EvelynnBR&theme=dracula&no-frame=true&row=1&column=7" />
-</p>
+### 💜 Sobre Mim
 
----
+<em>Desenvolvedora Full-Stack focada em criar experiências digitais modernas e intuitivas. <br> Apaixonada por tecnologia, design limpo e aprendizado constante.</em>
+<br>
 
-### 🧠 Um pouco sobre mim
-
-- 💻 Atualmente estudando **Desenvolvimento Full-Stack**   
-- 🌱 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades  
-- 🎨 Apaixonada por design e usabilidade moderna  
-- ⚡ Foco atual: **Node.js**, **React** e **Javascript**
+</div>
 
 ---
 
-### 🔥 Atividade recente
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvelynnBR&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FFFFFF&area=true&hide_border=true" />
-</p>
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Skills" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql" alt="Backend Skills" />
+
+### Ferramentas & Outros
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" alt="Tools" />
+
+</div>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvelynnBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynnBR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvelynnBR&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EvelynnBR&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🌱 Atualmente Explorando
+
+```javascript
+const evelyn = {
+  currentFocus: "Construindo aplicações escaláveis e performáticas",
+  funFact: "Café ☕ + Código 💻 = Magia ✨",
+}
+```
+
+---
+
+## 📫 Vamos Conectar?
+
+<div align="center">
 
 ### 💬 Conecte-se comigo
 
 <p align="center">
   <a href="https://github.com/EvelynnBR"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" /></a>
-  <a href="https://www.linkedin.com/in/evelyn-bezerra-ba5114260"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BD93F9" /></a>
+  <a href="https://www.linkedin.com/in/evelynbrdev/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BD93F9" /></a>
 </p>
+
+
+</div>
 
 ---
 
-<p align="center">
-  ✨ <strong>"Programar é transformar ideias em realidade"</strong> ✨
-</p>
+<br>
+<div align="center">
+💫 Atividade & Engajamento
+<br>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvelynnBR&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" />
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
