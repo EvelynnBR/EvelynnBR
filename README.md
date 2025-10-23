@@ -1,11 +1,9 @@
 <div align="center">
-
 # 👋 Olá, eu sou **Evelyn Bezerra Ramos**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full-Stack;Transformando+ideias+em+código;Apaixonada+por+tecnologia" alt="Typing SVG" />
-
 </div>
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full-Stack;Transformando+ideias+em+código;Apaixonada+por+tecnologia" alt="Typing SVG" />
+</div>
 ---
 
 <div align="center">
