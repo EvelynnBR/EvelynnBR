@@ -45,11 +45,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvelynnBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynnBR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvelynnBR&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -94,6 +89,6 @@ const evelyn = {
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvelynnBR&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" />
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=100&section=footer"/>
 
 </div>
