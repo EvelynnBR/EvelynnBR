@@ -55,7 +55,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EvelynnBR&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvelynnBR&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Trophies" />
 </div>
 
 ---
