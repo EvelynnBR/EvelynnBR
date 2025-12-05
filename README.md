@@ -1,95 +1,84 @@
 <div align="center">
 
-# 👋 Olá, eu sou **Evelyn**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=140&section=header&text=Olá+,+eu+sou+a+Evelyn&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&color=6366F1&center=true&vCenter=true&lines=Desenvolvedora+Full-Stack;Transformando+ideias+em+c%C3%B3digo;Apaixonada+por+tecnologia" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full-Stack;Criadora+de+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Design+Minimalista+%26+Clean+Code;Apaixonada+por+Tecnologia" alt="Typing SVG" />
+  </a>
 
-</div>
+  <br/>
 
----
+  <p style="font-size: 16px; max-width: 600px;">
+    <i>Criando experiências digitais com elegância e performance.</i><br>
+    Focada em construir aplicações performáticas, bem estruturadas e com design futurista.
+  </p>
 
-<div align="center">
+  <br/>
 
-### 💜 Sobre Mim
+  <p>
+    <a href="https://www.instagram.com/evelynnbr23/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10" alt="Instagram"/>
+    </a>
+    <a href="https://www.linkedin.com/in/evelynbrdev/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:evelynnbr24@exemplo.com">
+      <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 
-<em>Desenvolvedora Full-Stack focada em criar experiências digitais modernas e intuitivas. <br> Apaixonada por tecnologia, design limpo e aprendizado constante.</em>
-<br>
+  <br/>
 
-</div>
+  <h2>⚡ Tech Stack</h2>
 
----
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="90"><strong>Frontend</strong></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=html,css,js" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="90"><strong>Backend</strong></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,prisma" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="90"><strong>Tools</strong></td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,docker" />
+        </td>
+      </tr>
+    </table>
+  </div>
 
-## 🚀 Tech Stack
+  <br/>
 
-<div align="center">
+  <h2>📊 GitHub Stats</h2>
 
-### Frontend
+  <div align="center">
+    <a href="https://github.com/EvelynnBR">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvelynnBR&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=8B5CF6&icon_color=A78BFA&hide_border=true" />
+    </a>
+    <a href="https://github.com/EvelynnBR">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynnBR&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=8B5CF6&hide_border=true&langs_count=6" />
+    </a>
+  </div>
+  
+  <br/>
+  
+  <div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvelynnBR&theme=tokyonight&background=0d1117&ring=8B5CF6&currStreakLabel=A78BFA&fire=8B5CF6&hide_border=true" />
+  </div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Skills" />
+  <br/>
 
-### Backend
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvelynnBR&bg_color=0d1117&color=8B5CF6&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgresql" alt="Backend Skills" />
+  <br/>
 
-### Ferramentas & Outros
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" alt="Tools" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvelynnBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynnBR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvelynnBR&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🌱 Atualmente Explorando
-
-```javascript
-const evelyn = {
-  currentFocus: "Construindo aplicações escaláveis e performáticas",
-  funFact: "Café ☕ + Código 💻 = Magia ✨",
-}
-```
-
----
-
-## 📫 Vamos Conectar?
-
-<div align="center">
-
-### 💬 Conecte-se comigo
-
-<p align="center">
-  <a href="https://github.com/EvelynnBR"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BD93F9" /></a>
-  <a href="https://www.linkedin.com/in/evelynbrdev/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BD93F9" /></a>
-</p>
-
-
-</div>
-
----
-
-<br>
-<div align="center">
-💫 Atividade & Engajamento
-<br>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvelynnBR&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=80&section=footer" width="100%"/>
 
 </div>
