@@ -9,8 +9,8 @@
   <br/>
 
   <p style="font-size: 16px; max-width: 600px;">
-    <i>Criando experiências digitais com elegância e performance.</i><br>
-    Focada em construir aplicações performáticas, bem estruturadas e com design futurista.
+    <i>Desenvolvedora Full-Stack focada em criar experiências digitais modernas e intuitivas. <br>
+  Apaixonada por tecnologia, design limpo e aprendizado constante.
   </p>
 
   <br/>
